@@ -1,8 +1,8 @@
 {
-    "name": "OdooSnippets",
-    "displayName": "Odoo Snippets",
+    "name": "odoosnippets",
+    "displayName": "Odoo Snippets - Tarek Berkane",
     "description": "Snippets for Odoo developer",
-    "version": "1.5.0",
+    "version": "0.0.1",
     "icon": "images/icon.png",
     "publisher": "jigar-patel",
     "engines": {
@@ -62,7 +62,7 @@
     "homepage": "https://github.com/droggol/VscOdooSnippets",
     "repository": {
         "type": "git",
-        "url": "https://github.com/droggol/VscOdooSnippets"
+        "url": "git+https://github.com/droggol/VscOdooSnippets.git"
     },
     "bugs": {
         "url": "https://github.com/droggol/VscOdooSnippets/issues"
@@ -90,5 +90,6 @@
     },
     "dependencies": {
         "latest-version": "^6.0.0"
-    }
+    },
+    "author": ""
 }
