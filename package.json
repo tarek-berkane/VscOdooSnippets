@@ -2,7 +2,7 @@
     "name": "odoosnippets",
     "displayName": "Odoo Snippets - Tarek Berkane",
     "description": "Snippets for Odoo developer",
-    "version": "0.0.1",
+    "version": "9.0.0",
     "icon": "images/icon.png",
     "publisher": "jigar-patel",
     "engines": {
